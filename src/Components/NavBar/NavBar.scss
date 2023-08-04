@@ -1,0 +1,103 @@
+@import "../../index.scss";
+@import "~hover.css/css/hover.css";
+
+#burger-menu-container {
+  display: flex;
+  z-index: 9999;
+  background: $black;
+  color: $white;
+  position: fixed;
+  flex-direction: column;
+  height: 100%;
+  gap: 50px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+
+  #close {
+    display: flex;
+    justify-content: right;
+    width: 75%;
+    cursor: pointer;
+
+    svg {
+      path {
+        color: $white;
+      }
+    }
+  }
+
+  a {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: "Comics", sans-serif;
+    letter-spacing: 2px;
+    font-size: 2rem;
+
+    &:hover {
+      color: $gold;
+    }
+  }
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 180px;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+
+  ul {
+    width: 65%;
+    height: 160px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    img {
+      width: 110px;
+      height: auto;
+      cursor: pointer;
+    }
+
+    .link {
+      color: $white;
+      text-decoration: none;
+      font-family: "Comics", sans-serif;
+      list-style-type: none;
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+
+      &:hover {
+        color: $gold;
+      }
+    }
+
+    .burger-btn {
+      display: none;
+    }
+  }
+
+  @media screen and (max-width: 1244px) {
+    .link {
+      display: none;
+    }
+
+    ul {
+      border: none;
+
+      .burger-btn {
+        display: flex;
+      }
+    }
+  }
+}

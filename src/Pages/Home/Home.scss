@@ -1,0 +1,207 @@
+@import "../../index.scss";
+
+#slider {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  #slider-title {
+    font-family: "Comics", sans-serif;
+    letter-spacing: 2px;
+    color: $white;
+    font-size: 2.5rem;
+  }
+
+  .alice-carousel {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+    padding: 0 5% 0 5%;
+
+    .alice-carousel__wrapper {
+      background: $black;
+      box-shadow: 0 0 25px 5px $black;
+      border-radius: 25px;
+    }
+
+    .alice-carousel__dots {
+      display: none;
+      justify-content: center;
+      align-items: center;
+      background: black;
+      width: 100px;
+      height: 60px;
+
+      .alice-carousel__dots-item {
+        width: 12px;
+        height: 12px;
+        background: $lightgray;
+      }
+
+      .__active {
+        background: $gold;
+      }
+    }
+
+    .item {
+      width: 100%;
+      height: 640px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      padding: 4%;
+      font-size: 24px;
+      gap: 50px;
+      border-radius: 25px;
+
+      .item-content {
+        display: flex;
+        flex-direction: row;
+        background: $gray;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        gap: 2vw;
+        transform: rotate(-3deg);
+
+        &:hover {
+          transition: 0.5s ease-in-out;
+          transform: rotate(0deg);
+        }
+
+        span {
+          color: $white;
+          text-align: center;
+        }
+
+        @media (max-width: 1023px) {
+          & {
+            padding: 3%;
+          }
+        }
+      }
+
+      #item-btn-grup {
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+      }
+
+      @media (max-width: 1023px) {
+        & {
+          height: 500px;
+        }
+      }
+    }
+  }
+}
+
+#contact {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 20px;
+
+  #contact-title {
+    font-family: "Comics", sans-serif;
+    letter-spacing: 2px;
+    color: $white;
+    font-size: 2.5rem;
+  }
+
+  #contact-body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid white;
+    align-items: center;
+    width: 400px;
+    height: 100%;
+    background: $white;
+    border-radius: 20px;
+    padding: 2vw;
+    box-shadow: 5px 5px 15px 5px $black;
+
+    #contact-name {
+      color: $black;
+      font-size: 1.6rem;
+    }
+
+    #contact-desc {
+      color: $gray;
+      font-size: 1rem;
+      text-align: center;
+    }
+
+    #contact-background {
+      border-radius: 20px;
+      width: 105vw;
+      height: 110px;
+      position: absolute;
+      top: 0;
+    }
+
+    #contact-pp {
+      z-index: 999;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 3px solid $white;
+    }
+
+    #contact-social {
+      padding: 15%;
+      width: 10vw;
+      height: 5vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+
+      .socials {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        gap: 25px;
+
+        svg {
+          font-size: 3rem;
+          cursor: pointer;
+
+          &:hover {
+            transition: 0.5s ease-in-out;
+          }
+        }
+
+        .discord {
+          path {
+            color: $discord;
+          }
+        }
+
+        .github {
+          path {
+            color: $black;
+          }
+        }
+
+        .linkedin {
+          path {
+            color: $linkedin;
+          }
+        }
+      }
+    }
+
+    @media (max-width: 1023px) {
+      & {
+        width: 90vw;
+      }
+    }
+  }
+}

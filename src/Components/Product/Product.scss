@@ -1,0 +1,56 @@
+@import "../../index.scss";
+
+.item-container {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid white;
+    width: 350px;
+    height: 500px;
+    margin-top: 30px;
+    background: white;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px 5px $black;
+
+    span {
+        color: $white;
+    }
+
+    .items-names {
+        font-family: "Comics", sans-serif;
+        font-size: 2rem;
+        text-align: center;
+        color: $black;
+        height: 46px;
+    }
+
+    .items-img {
+        border-radius: 20px;
+        height: 200px;
+    }
+
+    .items-price {
+        font-size: 1.6rem;
+        font-family: "Comics", sans-serif;
+        color: $black;
+        padding: 5px;
+        background: $gold;
+        text-align: center;
+        border: 2px solid $black;
+        height: 50px;
+    }
+
+    .items-descriptions {
+        overflow-y: auto;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: $black;
+        height: 50px;
+    }
+}

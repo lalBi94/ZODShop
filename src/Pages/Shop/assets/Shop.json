@@ -1,0 +1,68 @@
+{
+  "krp_bank": {
+    "price": 20,
+    "currency": "EUR",
+    "name": "krp_bank",
+    "category": "PBZW",
+    "description": "Five M Bank scripts powered by ZODWorks.",
+    "img": "https://lh3.googleusercontent.com/fife/AKsag4OjRri68qNqrReG2wkF4c4SpiksMiXhjXEXRqKwbGQSRaItpKYHSitAjzDig12EthhE8_SCVm4-9mGOrfpGGY7-HJJehjSReGAfzXy2URh1TKO9xSvQ_gFWDYvFApddXBMGajGJufrUf9FTMq7ILIVXEauFaAEChFk9QKIQMPyU5e8e2AhMH2tHlM4dT2jlunMYvbdeaopGhkuGtzAwAdc3HK-c0WjzXsVRNhTdnN-tpMebj6x_O9kBDr_DrkYjj0iElvnrv8uwubn6kAPR03fsU8tamQ13yZcfEzr5wQOrjhobbXFc6ONSSrMHJwdkugxf7qNYU9M3VnWzSPgGx2PU1kY1_B2CWiibXRCFYVFkyAQfHMSkkBA__WuMZpxAN3HBGnWEiAspYzxBAgZCPMc1Kn8WvhDAyfwL5ahUZ66NFDWYx47uNIdXLS4B-j7A1z2b6mNUvbu3ONgyjp2qmtTmQG6sIHQu9lcaeTpiQZ__347Y948VmhCOv3uR0QdwXG77EyBYi--eQHbjlTMxgGpHydgTCmOYhyLNtesQpkluCG9PtQ9M74pdlEwINHqgqKivgR7PvaqUlELt1MccE2TyEOOsanEH-122H-t3tXYdjNx0iUYofwwwCkndR0SWS4T18amOeGT7Z94ASJFPlt61jcKvlHGt8Ug4pj9bxMXLbFs2XI5DEDYnHsFBBgxAV5u7PeevsogB6rJKn5pZdIeUCHXDWth4_Ss4FFXRp4GxlU8LFIjyyQVNtx-AkwvpuY67e6FpSOOubm1zzB94AlnmR4chT6DDZKUUDu5MOxTxMd8dsDTjC7qB84Tp7ZPdrNPxdi0YlivyRjMJIzyJuf85_r4la6zIJMXDRMOIYEP3MfnOAvBwYKLIegD2B8oLBvD-gzxMc_VxN1BUuTg-CAJmJ63JTQmV1DzHLbYOjrkyv1CJiiF1lbACiS75z0tVCfdB7ykzbzjuq1_p6VMCuOPNZd5tPSfRL5npK5uFQ2jc2XBat9td7IQQQLyN-SyUoeEbJQx6ttmFobGTT8fj7YcVsGme80i_XOsqTM5f9SPLxdXwV5k4M_mwywns0dFHgbVOOCKYNHIZKRj6jgOITFUE-3jkYpSURldvJ38BGZdCurgAyzGZbf2FswIr7EnGn17ouMEqf1J7wy4hy-xj8LxZVSn-KhFUW2lE_4Yi1rmMhMmalbIoADYVsYeAF3Gi9MSJ1a6rGeb8jSzee0Dah8ZaNKDa-_XOOBnCjHGJlvSoL1rWO5E-Crld5WV8p7uFZzE8UWIg0ceEVoXakP2eZBCZrvpP1ZKDH1QRSIDrKt9oMF8NGONy3z_gw1EHo7Q3kLXEjPcW2H4ooNTC3CLyzMM_9wGPBN-F4kLCCLjKTdCLYqXJvVzQr06pBfSz4ZIV12i3hlkzQ0z5afWRVD_L008ZK-2JwtmVmcF7YaDnKs0DjAmHqmB5e2Y5r-N2DbH__wQ877I1yJd06erN2wpTn8h8glrXLdWb5qYwN0bsPe0rGKionBGweKCM8aEYBMdAAhTtkxohcM50bRHHU3qPx57EHUk3uxPl-XQUyzGzK4OynH-bZKr42kQVqrHOgnoQ_WM_YoI_cDrKra0ixWiLlEV0SsZhz6t7ZQcc4DOXpVnIAHSPfugrxDm76B738UXg8aB04Mw1izQc55VJ5t5Hj1BMJD6rfZo-JrVCr8_dC6XsRj3e3c8W_HuPhA=s320-w320-h200-p-k",
+    "target": "https://kryptonproject.tebex.io/package/5825518"
+  },
+
+  "krp_pets": {
+    "price": 15,
+    "currency": "EUR",
+    "name": "krp_pets",
+    "category": "PBZW",
+    "description": "Five M pets scripts powered by ZODWorks.",
+    "img": "https://lh3.googleusercontent.com/fife/AKsag4MAUYxNbJA_FecM6mMVynkgf1gjN-jnB8rLpPaWEZcFnx1B8G8x1ZXKMqDwbIvI5dYGFjKJf9NWudXAjC9NCKMUnxrojwcTHDDUpevUWCRzTriTnogZpODq3GQT3HBtdVUNtfHC__ZFYaNXq1qoPOYXq6_0XvJjGyaeyrtTmAC4vU1lO3jnrrcNjzESHB9brRBKBD8kj2wuvdeYgBEVH-QvlEVPz43oCtKuPrNpXlTkV6fbg91LBUQYgxlbV_rlg6zN69YRm7vKxJOF6CbdGLDssNDm7xZqAy0q7UqcODGcCy8_DxwJZDN0wTrrPPRNRyf1iqPTDxMcrSKkWrJzT263PaGRgSzTP4_Q0kXdZH26nDdnB_SkGYYvQLtRq0rL6DpxmFbc7B8jkl40GavQc0f3qnPdzMXSuKB4Mu1cX2mV-lH4E0cuEn9bMdGoJAuKyTMmHWfqHnCTGg8fa8JP9wVGZ1ZsdWCaPp4mrJudstdGrXUE9ZvhY7Ri8KbKwO02ZxWaiR8E19r5G3V3Q_Tb-NVAKIRI5rIQooYrBw6CSRYDHFDXa8KAhw0RasQF2G2ZQ0URjzfmYrBhf9KIhSwIiGSMOlNAAsd8InkzF6Hu-ms-54WYmAOGpyA1Y91OP4Jkx8jPjm3b22zpi8G6gvtb95xkfl7VGtF8GnI4wIS7q0jUdKVIlqFXiIbVu9rsesXBlDktTdAM1l9qVax8SDgRC6pq3vFuD6Jpx3zPwMTH7nIFS1AEHtsknfVqF3kRrTH49g-81f0riNtyPNrQZfN2dsgZqnXNV6fH5k1W8i9w2kQLoLETz1XC-Er27K6gWe5vt7dc5h_KRuX7XdzDP61Qf6oPzcOW-CZd8vOetRjF58jRTA2plsv5W1Wl3vWHk_TceS3r0SL94cIKcaSWDqWaDpUDiezUPptv4j5zrnQ6Xo14yXQ9V27zB-DWMabcAG3JtJ0C2YNq9qNZEWzpne4vtoC-6sFwbv2yWU0ta3S2i4whXItrHPfu24_-_5dvaYZgpqvmt8ec32D0EusmRkUMyz5LGI29KUO9pmToQ2dvVWLmW9UI1fvvUg0AS6JrpRBNykqhAxCogPYRlbEXEzJ_dslCptsODZ7Vfm22lN5PNY8ej5DVzErux7Z5tfKR6CocX5EOlIWJUhCGecQZBG9-OIrqSQw7epdBpUdxWVNdya1bVlGDqav6vN2psVHOey0X5uVliYnYzv-347ZHnh72ovKaMxXjVbrAotqCqbhracxOsiC2AX_kYoOp9RHLzFIgCqOSEz9syMkuHWKKxxW10EGPSdfhA34y_n6vXNqEoBJFWKpaC1j9OUR605DKzAYyKUD4Y2x2DTkK9k56wK87UcXxE7Xywa1oR83Y2dQRXsWddlqZ1Z3An2RiMVOeAvfeKjNeGloQb-3vz54zScQb9c_Ta1h-VxZ04nc48gM3ffxZY_mp4_8-EoL1ul_UlkBFQBU_CeXDaElxPRwx_FesOwzrk6IYlJbR-p4PGlevbVRQrFhwhVYm8-BsOy4QE_Z3ihR9aubZ3fUYjN2Db38_wGBL2JTNTXAaVg_1nUd8rDJeQYOkf5vbYZKiYfd-G5lO_jVtuC09pxPWlKsRzWNQTNFay5ht4zL9eqGn8xVESdlZosC-MvTKkbJtSBCKnaDRbSmo8KMDI2FnZI7_xtwpFyV4RE3IgyX75ZD3LCrYglI1G_w_JHHVL-NC9g=s320-w320-h200-p-k",
+    "target": "https://kryptonproject.tebex.io/package/5826603"
+  },
+
+  "krp_contracts": {
+    "price": 15,
+    "currency": "EUR",
+    "name": "krp_contracts",
+    "category": "PBZW",
+    "description": "Five M contracts scripts powered by ZODWorks.",
+    "img": "https://lh3.googleusercontent.com/fife/AKsag4M6QhGDGAGCKGDAFqGmGvzVn50RrsjliyKnbV7Jo--3qRyj8cvgtyyhuGsz7z6pZRhy-zbj2zn6Z4lGxL7iQ-bYDZ0LY5vF3QOjEpZG5dnCO9tQAb4_5aco0ilgKi15Da41yY5J1eWp7KVmperbnWuUjBsfZYYlRQeATMpIR062-VwG53lh20bsf0vkFznegXQ2QXX_e94lbKfvpRX1OunBuSxt5l2ndbcdmcucw4E_fLSyAHbVNJO9-pVWDtJMSCxE75xfdt-RBpcVIZQhn97cwK-IwVOPOiw9cl2Eql_3ZJJcB9PMT6Mv6_KGG5RuDr4av5Vc04x5gMs4EEL1XekQVqi9nClTXxPDnOnmZ4Nb-SzWWOMCOlS-gd-nAgdkSCzb-NsFaj0Rdg5-Cdo28MaEponVdi8pZFOjrPtgZM7OCckbvBgl-pjYb4Ew1LS-28iU7Rb6puu1fkwd46u856PmbfERIh8lvVfmyi0R0bgkHMj0IxA-fxlzrvNMaG82pQL6T_uqR1uUCOEt-hc25tndxv_Pudn-5GwaZ1bvS5_A9re-quQIn9V36d5jK5HE2ZsyKmWwKgd4N4BO33lLNQIZF76U3QIM_XjnXTNok1mqv1Tzi3NUJyZYHcOHERU3Emr0ykelbMW0ynTRPi2dQoE0K8MPkNYX1j0vwRoUOUmXan3LKq4ZBWwyEhkZNk2tXkmUhABGj2JISJDar867jSjfBkeuzX1vNcXPYmyOiBbNnSU81TNLmcQGJNYmInkEPcl1UF8TXP8mCtv7up0Pxuc3NVLfyeMENhq6VYtcaEx4X3lb93AhIJklqNsWMkZVy9a-xizsxvElOqLH-yEpBROU9nWOH9556NXZnRSd52MIiy2nQr7B-P83od9FvVaxKVY2Yw7BZ2S9QdKmG1TVYy5b9aNN5Q6lqqU-OD1G07btjCPIeU8nyI2whbOBK4gIqnkZXyGs87oWoSSrb78ManYcd1jiE40CT_NQqt-YT6E5aqVUKz0epY_zjb4xwzYJYCKMUklyaTCmX59MvM9TmXICqLvupn9-6ak2r9MbeHFCz_JpgT6YRNmpmcwzl3cz77kBQ3Kin_fO7pd8AdMMs2v-yhFbJruKiIO9HTNoAwdcS8obzoIVR5ytI98Szr9_vIveI4Q8VVe1jGU0xiiKL4L2cQtIzDfqplRL4SczaYZ3masxCiT1e_tQmfSji7M_AjCol0NYp2R-Qdg_1Ywd_29efYy5bPdzJ3rJ6cMLBl3iYDolghaDf1XEegK17Csh3f2nwxAVmOsoRunl3HrycUa6o56uSoj2wkQ6A26pTSsLqqY7ZyAQksHo6P7VrDi55m3p1_z2A4DbKlc4e0PG4c_w7zA6KiEr23KVe7sFhisGkMYS7wozWAlm8VMHYJa3isToBzwLGQifRhNVgcJgcTnRmf3GjreKjpcxpcrEAGP0TMqSr-RrLuIgE5nWzZ4QtX_GKCAxFqq4TjS5VkzobKXJnOKg8mvd9FtmjdhqVn2aPsTKxVFg1F-oqTAZxiCCti4Mm8QCAsm2vj_1iAMkTfJ7NWyGZw63CDSHVwI9gqxpOLHU8pC5BH4hz9CLvav6csmApsnZAPvvb0ra8YFPEYHVIUw4npagPeSt3OAFP1S_zRC6ZlwKTfr1v3LMruKuihDKc-4QKJ8d6JbSEchI78l2fax-oeXhM8NDd6ItYyGhhsucfcJokHFtcA=s320-w320-h200-p-k",
+    "target": "https://kryptonproject.tebex.io/package/5826532"
+  },
+
+  "ZODWorks": {
+    "price": 15,
+    "currency": "EUR",
+    "name": "ZODWorks",
+    "category": "ZW",
+    "description": "Five M private frameworks.",
+    "img": "https://lh3.googleusercontent.com/fife/AKsag4NN-K206PzD4Bsq5KpAYhO7heHGFKvNvMSKE2fEge-XXuq57t36rZ6T7DsORGHkxH37vwIbcrk3A3ZSh3ovA6Jf065bZaRj2qUQervdAAnEtS58uuxVayDqUgGDGevVMeLo19Y-C9IKKxzgJxd_jFr-7iRTZn_otamFIP3IAKTynA3hgyZlKTrcGn6pNinH2a3E9l31vSVRgb_Ex39sJ4KNNSU4GcZtzjZ2i1_h-51DsXOVvLpvGRNF4PBoWw-uE9slbIvagAlcUxylgRoMXAnoqhp6-3zXgYym6TMwzCLD-X9q-1rG0NzDMH89vMERSH-YM6q_9fp8QQXgsuxh0OO9OBH8DInbNTDvJKXlw62JJEG3EMKLU7-gwSa5xjWGrVpCmNpKgK3RMyt9pA3kqhvhwtY1QI8_L3quvhxBOMZHujSrwoegNThd3PCwqjqIHGuRwkzZgZCGx37w2jcTgNr1hav_vFQd4vE9qh6Kd9AZDy0-OLdWadVSzoUF3toZOddicuQZM4KdwS7FCTblY0Lc-1IrIj_CB70ZPpHQRECcwgU3PckntzUr-K-g0qfenNeObVwqU6e689fD71j1_qpYnMeSgeV1yHnT2D0q1Zun-AyWa3IT-gY8CbZGJqDtIPZyO0BwaRrhiKQv4T6fWF1m0-1vY1ZO74JtNv3iClj18SI0nuUrGwknge9i9yccJ6whaKuTvFBbMh4VSR5oHMNE_71ub_hv0eH38EHkOoxHTVT8tRdpE3tnKVZ08e0UBZAlwQ2tyrl5TQpQ0ShfXM14T3CSx9hvz5JWocbHr2L17XKowm2w-TuKPELKDTNe8mSy8dpb1Onvz_lrLzLmj0TuNMuYUmx3bIkCsbSku15rzMXMJ3qiFx6-cev9ha-Jmkj_ERNcB3ej9iUorvibT1GvtVv7XVos_Gf9_6DyT0srz4C9vlXNjurUUwYwfNvXYWmnRUVySmMGj3PqTMWy5t1tGVSapb15d3NzUrdC-HYweGCFDWA7szoqvmshy0kwdQE7EI1vHTWla7fJzt4wHPgnbjphyBCuzxH3Y4T0JKBwkT99WqZ-1bA4n2EqisquFEytsHAr_xcwyonwAWnt8nmnpB5afqDy2o516rmyMkXmlDdAIo-T3b1kffG3vLKE=w1920-h1007",
+    "target": "https://kryptonproject.tebex.io/package/5825480"
+  },
+
+  "WebDev": {
+    "price": "75 -> 200",
+    "currency": "EUR",
+    "name": "Web development",
+    "category": "SRV",
+    "description": "Bulding the website of your dream !",
+    "img": "https://cdn.dribbble.com/users/1603428/screenshots/4158745/web-dev-gif.gif"
+  },
+
+  "FiveMDev": {
+    "price": "75 -> 200",
+    "currency": "EUR",
+    "name": "FiveM scripts development",
+    "category": "SRV",
+    "description": "Writing customized scripts for your server.",
+    "img": "https://2.bp.blogspot.com/-gkJNzMLzvMY/XU06-AQeQBI/AAAAAAAACck/Y86KuMYfdKkZL0Kp9taNV1eOhfjUu5DeACK4BGAYYCw/s400/luaa.gif0CBEQjRxqFwoTCMCAtM3svIADFQAAAAAdAAAAABBM"
+  },
+
+  "FiveMFixComp": {
+    "price": "15 -> 35",
+    "currency": "EUR",
+    "name": "Fixing & Compatibility",
+    "category": "SRV",
+    "description": "Script repair and compatibility.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Tool_animated.gif"
+  }
+}

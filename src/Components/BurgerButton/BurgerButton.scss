@@ -1,0 +1,36 @@
+@import "../../index.scss";
+
+.burger-btn {
+    margin-left: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.7rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    background: $orange;
+    padding: 2%;
+
+    .text {
+        font-family: "Comics", sans-serif;
+        color: $black;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 1vw;
+    }
+
+    &:focus {
+        outline: none;
+    }
+    //
+    //&:active {
+    //    .icon {
+    //        transform: scale(0.85);
+    //    }
+    //}
+}

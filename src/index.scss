@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Comics";
+  src: url("./Fonts/Comics.TTF") format('truetype');
+}
+
+@font-face {
+  font-family: "Text";
+  src: url("./Fonts/Text.ttf") format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$lightgray: #D6D6D6;
+$gray: #333533;
+$black: #202020;
+$gold: #FFD100;
+$yellow: #FFEE32;
+$white: #fff;
+$discord: #7289d9;
+$linkedin: #0e76a8;
+$orange: #feb109;
+
+* {
+  font-family: "Helvetica Neue", sans-serif;
+  color: $black;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: $gray;
+  overflow-x: clip;
+}
