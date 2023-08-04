@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ZODShop/static/css/main.54ac6d30.css",
+    "main.js": "/ZODShop/static/js/main.3b99c67a.js",
+    "static/media/logo.png": "/ZODShop/static/media/logo.2c818339ceb22866343a.png",
+    "static/media/bilou.gif": "/ZODShop/static/media/bilou.bcc48e01cd5051457be2.gif",
+    "static/media/bg2.jpg": "/ZODShop/static/media/bg2.b44356208954145b94b7.jpg",
+    "static/media/kryptonproject.png": "/ZODShop/static/media/kryptonproject.f4ff4423702d366b0a0c.png",
+    "static/media/bg3.jpg": "/ZODShop/static/media/bg3.ee0bf4f0f6436d829732.jpg",
+    "static/media/bg1.jpg": "/ZODShop/static/media/bg1.c46e8be064805eebde2c.jpg",
+    "static/media/backgroundcontact.gif": "/ZODShop/static/media/backgroundcontact.fd2649fb605ee41437db.gif",
+    "static/media/scripts.jpg": "/ZODShop/static/media/scripts.c27231b9ece86d41c0cd.jpg",
+    "static/media/Text.ttf": "/ZODShop/static/media/Text.f8324fdad6eda13d12aa.ttf",
+    "static/media/Comics.TTF": "/ZODShop/static/media/Comics.be0444bb4d4566ee5851.TTF",
+    "index.html": "/ZODShop/index.html",
+    "main.54ac6d30.css.map": "/ZODShop/static/css/main.54ac6d30.css.map",
+    "main.3b99c67a.js.map": "/ZODShop/static/js/main.3b99c67a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ac6d30.css",
+    "static/js/main.3b99c67a.js"
+  ]
+}
