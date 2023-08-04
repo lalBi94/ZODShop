@@ -18,10 +18,10 @@ export default function App() {
         <>
             <Layout>
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/shop" element={<Shop />} />
-                    <Route path="/free" element={<Free />} />
-                    <Route path="/contact" element={<Home />} />
+                    <Route path="/ZODShop/" element={<Home />} />
+                    <Route path="/ZODShop/shop" element={<Shop />} />
+                    <Route path="/ZODShop/free" element={<Free />} />
+                    <Route path="/ZODShop/contact" element={<Home />} />
                     <Route path="*" element={<NotFound />} />
                 </Routes>
             </Layout>

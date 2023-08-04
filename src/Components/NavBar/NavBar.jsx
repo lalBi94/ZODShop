@@ -22,11 +22,11 @@ export default function NavBar() {
         <>
             <nav>
                 <ul>
-                    <Link className="link hvr-shrink" to="/" >
+                    <Link className="link hvr-shrink" to="/ZODShop/" >
                         Home
                     </Link>
 
-                    <Link className="link hvr-shrink" to="/shop">
+                    <Link className="link hvr-shrink" to="/ZODShop/shop">
                         Shop
                     </Link>
 
@@ -35,7 +35,7 @@ export default function NavBar() {
                         alt="Logo officiel de ZODWorks"
                         onClick={
                             () => {
-                                redirectionHREF("/")
+                                redirectionHREF("/ZODShop/")
                             }
                         }
                     />
@@ -45,13 +45,13 @@ export default function NavBar() {
                         onclick={handleBurger}
                     />
 
-                    <Link className="link hvr-shrink" to="/free">
+                    <Link className="link hvr-shrink" to="/ZODShop/free">
                         Free
                     </Link>
 
                     <Link className="link hvr-shrink" onClick={
                         () => {
-                            redirectionHREF("/#contact")
+                            redirectionHREF("/ZODShop/#contact")
                         }
                     }>
                         Contact
@@ -65,19 +65,19 @@ export default function NavBar() {
                         <FontAwesomeIcon icon={faXmark} />
                     </div>
 
-                    <Link to="/" onClick={handleBurger} className="hvr-shrink">
+                    <Link to="/ZODShop/" onClick={handleBurger} className="hvr-shrink">
                         Home
                     </Link>
 
-                    <Link to="/Shop" onClick={handleBurger} className="hvr-shrink">
+                    <Link to="/ZODShop/Shop" onClick={handleBurger} className="hvr-shrink">
                         Shop
                     </Link>
 
-                    <Link to="/Free" onClick={handleBurger} className="hvr-shrink">
+                    <Link to="/ZODShop/Free" onClick={handleBurger} className="hvr-shrink">
                         Free
                     </Link>
 
-                    <a href="/#contact" onClick={handleBurger} className="hvr-shrink">
+                    <a href="/ZODShop/#contact" onClick={handleBurger} className="hvr-shrink">
                         Contact
                     </a>
                 </div>

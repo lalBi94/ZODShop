@@ -45,7 +45,7 @@ export default function Home() {
                 />
 
                 <CustomButton
-                    target={{isHref: true, url: "/shop?category=ZW"} }
+                    target={{isHref: true, url: "/ZODShop/shop?category=ZW"} }
                     text="Discover"
                 />
             </div>
@@ -63,7 +63,7 @@ export default function Home() {
 
             <div id="item-btn-grup">
                 <CustomButton
-                    target={{isHref: true, url: "/shop?category=PBZW"} }
+                    target={{isHref: true, url: "/ZODShop/shop?category=PBZW"} }
                     text="Discover"
                 />
             </div>
@@ -81,7 +81,7 @@ export default function Home() {
 
             <div id="item-btn-grup">
                 <CustomButton
-                    target={{isHref: true, url: "/shop?category=SRV"} }
+                    target={{isHref: true, url: "/ZODShop/shop?category=SRV"} }
                     text="Discover"
                 />
             </div>
