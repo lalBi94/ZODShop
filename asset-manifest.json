@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ZODShop/static/css/main.54ac6d30.css",
-    "main.js": "/ZODShop/static/js/main.46d23475.js",
+    "main.js": "/ZODShop/static/js/main.a4a922e7.js",
     "static/media/logo.png": "/ZODShop/static/media/logo.2c818339ceb22866343a.png",
     "static/media/bilou.gif": "/ZODShop/static/media/bilou.bcc48e01cd5051457be2.gif",
     "static/media/bg2.jpg": "/ZODShop/static/media/bg2.b44356208954145b94b7.jpg",
@@ -14,10 +14,10 @@
     "static/media/Comics.TTF": "/ZODShop/static/media/Comics.be0444bb4d4566ee5851.TTF",
     "index.html": "/ZODShop/index.html",
     "main.54ac6d30.css.map": "/ZODShop/static/css/main.54ac6d30.css.map",
-    "main.46d23475.js.map": "/ZODShop/static/js/main.46d23475.js.map"
+    "main.a4a922e7.js.map": "/ZODShop/static/js/main.a4a922e7.js.map"
   },
   "entrypoints": [
     "static/css/main.54ac6d30.css",
-    "static/js/main.46d23475.js"
+    "static/js/main.a4a922e7.js"
   ]
 }
